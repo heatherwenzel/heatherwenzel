@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi 👋  I'm Heather, a marketing manager turned front-end developer based out of Detroit.
+
+📫  hcwenzel@gmail.com
 
 <!--
 **heatherwenzel/heatherwenzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
