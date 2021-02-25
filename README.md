@@ -1,4 +1,4 @@
-### Hi 👋  I'm Heather, a front-end developer based out of Detroit.
+### Hi 👋  I'm Heather, a front-end web developer based out of Detroit.
 
 📫  hcwenzel@gmail.com
 
