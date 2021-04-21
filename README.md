@@ -1,4 +1,4 @@
-Hi 👋  I'm Heather, a front-end web developer based out of Detroit. I work for [Carat Detroit](https://www.carat.com/) creating applications that integrate multiple APIs and make manual tasks easier to do.  
+Hi 👋  I'm Heather, a front-end web developer based out of Detroit. I work for [Carat](https://www.carat.com/) creating applications that integrate multiple APIs and make manual tasks easier to do.  
 
 📫  hcwenzel@gmail.com
 
