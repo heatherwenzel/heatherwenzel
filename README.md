@@ -1,6 +1,6 @@
-Hi 👋  I'm Heather, a software engineer based out of Detroit, currently working at [GE Aviation](https://www.geaviation.com/) 
+Hi 👋  I'm Heather, a software engineer based out of Detroit, currently working at [GE Aviation](https://www.geaviation.com/).
 
-📫  hcwenzel@gmail.com
+📫: hcwenzel@gmail.com
 
 <!--
 **heatherwenzel/heatherwenzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
