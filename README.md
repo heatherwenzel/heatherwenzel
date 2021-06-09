@@ -1,4 +1,4 @@
-Hi 👋  I'm Heather, a front-end developer based out of Detroit. I work for [Carat](https://www.carat.com/) creating applications that integrate multiple APIs and make manual tasks easier to do.  
+Hi 👋  I'm Heather, a software engineer based out of Detroit, currently working at [GE Aviation](https://www.geaviation.com/) 
 
 📫  hcwenzel@gmail.com
 
