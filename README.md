@@ -1,4 +1,4 @@
-Hi 👋   I'm Heather, a developer based out of Detroit, currently working at [GE Aviation](https://www.geaviation.com/).
+Hi 👋  I'm Heather, a software developer based out of Detroit, currently working at [GE Aviation](https://www.geaviation.com/).
 
 📫: hcwenzel@gmail.com
 
